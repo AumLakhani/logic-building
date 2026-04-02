@@ -16,9 +16,7 @@ This repository helps me:
 
 * JavaScript
 
-## 📂 Repository Structure
 
-Each day’s problems are organized into separate folders.
 
 ## 🎯 Goals
 
